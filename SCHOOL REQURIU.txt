@@ -3,5 +3,6 @@ flask-login
 werkzeug
 pandas
 openpyxl
+gunicorn  
+streamliT
 reportlab
-gunicorn  # For production server
