@@ -3,6 +3,7 @@ flask-login
 werkzeug
 pandas
 openpyxl
-gunicorn  
-streamliT
+gunicorn
+streamlit
 reportlab
+
